@@ -1,0 +1,3 @@
+git add .
+git commit -m '"I pray i dont do mistake"'
+git push
